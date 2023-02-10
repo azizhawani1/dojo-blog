@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 
+//list of blogs
 const BlogList = ({ blogs, title, handeDelete}) => {
     // USE OF PROPS = data from parent component : more reusable
     //const blogs = props.blogs;
