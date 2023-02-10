@@ -20,7 +20,7 @@ const BlogDetails = () => {
             method: 'DELETE'
         }).then(() => {
             setIsPendingDeletion(false);
-            navigate('/');
+            navigate('/dojo-blog/');
         })
     }
 

@@ -13,8 +13,8 @@ const Navbar = () => {
                     borderRadius: '8px'
                 }}>New Blog</a>*/}
                 {/*<a href="/create">New Blog</a>*/}
-                <Link to="/">Home</Link>
-                <Link to="/create">New Blog</Link>
+                <Link to="/dojo-blog/">Home</Link>
+                <Link to="/dojo-blog/create">New Blog</Link>
             </div>
         </nav>
 

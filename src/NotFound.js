@@ -5,7 +5,7 @@ const NotFound = () => {
         <div className="not-found">
             <h2>Sorry</h2>
             <p>that page cannot be found</p>
-            <Link to="/">Back to the homepage ...</Link>
+            <Link to="/dojo-blog/">Back to the homepage ...</Link>
         </div>
 
     );

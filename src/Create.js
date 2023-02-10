@@ -26,7 +26,7 @@ const Create = () => {
             setBody('');
             setAuthor('mario');
             // navigate(-1);
-            navigate('/');
+            navigate('/dojo-blog/');
         });
     }
 
