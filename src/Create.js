@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
+//to create a new blog
 const Create = () => {
     const [title, setTitle] = useState('');
     const [body, setBody] = useState('');
