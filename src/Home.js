@@ -1,6 +1,7 @@
 import BlogList from './BlogList';
 import useFetch from './useFetch';
 
+// new comment
 const Home = () => {
     //custom hook
     const { data:blogs, isPending, error } = useFetch('http://localhost:8000/blogs');
