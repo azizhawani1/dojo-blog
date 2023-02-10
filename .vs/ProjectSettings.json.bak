@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/node_modules": false
+  },
+  "search.exclude": {
+    "**/node_modules": false
+  },
+  "search.watcherExclude": {
+    "**/node_modules": false
+  },
+  "zencoding.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "CurrentProjectSetting": null
+}
