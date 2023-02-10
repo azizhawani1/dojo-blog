@@ -15,6 +15,7 @@ function App() {
             <Navbar />
                 <div className="content">
                     <Routes>
+                        <Route exact path="/dojo-blog/zunkzoo" element={<ZunkZoo />} />
                         <Route exact path="/dojo-blog/" element={<Home />} />
                         <Route path="/dojo-blog/create" element={<Create />} />
                         <Route path="/dojo-blog/blogs/:id" element={<BlogDetails />} />
