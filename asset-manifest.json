@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/dojo-blog/static/css/main.2bbf11c9.css",
-    "main.js": "/dojo-blog/static/js/main.04171572.js",
+    "main.css": "/dojo-blog/static/css/main.359dc0ca.css",
+    "main.js": "/dojo-blog/static/js/main.7be27f78.js",
+    "static/media/Spotter_AIO_Toolkit_1.png": "/dojo-blog/static/media/Spotter_AIO_Toolkit_1.8c4b9f1abb65769f7567.png",
+    "static/media/Zunkz_marketplace_1.png": "/dojo-blog/static/media/Zunkz_marketplace_1.277cd7c7537b33075ff7.png",
+    "static/media/Mount_zunkmore_1.png": "/dojo-blog/static/media/Mount_zunkmore_1.c3b2251af123a4e5bc46.png",
+    "static/media/Zunkz_rewards_program_1.png": "/dojo-blog/static/media/Zunkz_rewards_program_1.7b6c7eb136b28c39f33a.png",
+    "static/media/pool_of_immortality_1.png": "/dojo-blog/static/media/pool_of_immortality_1.cd8d2469e805eaf7b760.png",
+    "static/media/Zunkz_in_the_metaverse_1.png": "/dojo-blog/static/media/Zunkz_in_the_metaverse_1.fa4e934d9960520de64b.png",
+    "static/media/Zoo_Map_full.png": "/dojo-blog/static/media/Zoo_Map_full.8e62f274c4f0f0161d22.png",
+    "static/media/Zoo_Map_full_photoshop_spotteraiotoolkit.png": "/dojo-blog/static/media/Zoo_Map_full_photoshop_spotteraiotoolkit.5350946dc4ee22cee789.png",
+    "static/media/Zoo_Map_full_photoshop_mountzunkmore.png": "/dojo-blog/static/media/Zoo_Map_full_photoshop_mountzunkmore.43fa424a0e68f109a57f.png",
+    "static/media/Zoo_Map_full_photoshop_zunkz_in_the_metaverse.png": "/dojo-blog/static/media/Zoo_Map_full_photoshop_zunkz_in_the_metaverse.518d08b145d34c8a158e.png",
+    "static/media/Zoo_Map_full_photoshop_marketplace.png": "/dojo-blog/static/media/Zoo_Map_full_photoshop_marketplace.b632a6db5c249209ba3e.png",
+    "static/media/Zoo_Map_full_photoshop_pool_of_immortality.png": "/dojo-blog/static/media/Zoo_Map_full_photoshop_pool_of_immortality.45230193edcb414b6857.png",
+    "static/media/Zoo_Map_full_photoshop_zunkz_rewards_program.png": "/dojo-blog/static/media/Zoo_Map_full_photoshop_zunkz_rewards_program.879f2f00b66502d0bccf.png",
     "index.html": "/dojo-blog/index.html",
-    "main.2bbf11c9.css.map": "/dojo-blog/static/css/main.2bbf11c9.css.map",
-    "main.04171572.js.map": "/dojo-blog/static/js/main.04171572.js.map"
+    "main.359dc0ca.css.map": "/dojo-blog/static/css/main.359dc0ca.css.map",
+    "main.7be27f78.js.map": "/dojo-blog/static/js/main.7be27f78.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bbf11c9.css",
-    "static/js/main.04171572.js"
+    "static/css/main.359dc0ca.css",
+    "static/js/main.7be27f78.js"
   ]
 }
