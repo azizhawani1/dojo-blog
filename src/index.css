@@ -36,7 +36,7 @@
 
 .content {
     max-width: 600px;
-    margin: 40px auto;
+    margin: 0 auto;
     padding: 20px;
 }
 
@@ -119,4 +119,35 @@
 
 .not-found a {
     color: #f1356d;
+}
+
+/* zunk zoo */
+.zunk-zoo {
+    /*max-width: 400px;*/
+    margin: 0 auto;
+    text-align: center;
+}
+
+    .zunk-zoo h2 {
+        font-size: 20px;
+        color: #f1356d;
+        margin-bottom: 30px;
+    }
+
+    .zunk-zoo div {
+        margin: 0;
+    }
+
+    .zunk-zoo a {
+        margin: 0;
+    }
+
+.zoo-img {
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    width: 100%;
+    border-radius: 10px;
 }

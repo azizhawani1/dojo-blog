@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Create from './Create';
 import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
+import ZunkZoo from './ZunkZoo';
 
 //new comment
 // root component
@@ -15,7 +16,7 @@ function App() {
             <Navbar />
                 <div className="content">
                     <Routes>
-                        <Route exact path="/dojo-blog/zunkzoo" element={<ZunkZoo />} />
+                        <Route path="/dojo-blog/zunkzoo" element={<ZunkZoo />} />
                         <Route exact path="/dojo-blog/" element={<Home />} />
                         <Route path="/dojo-blog/create" element={<Create />} />
                         <Route path="/dojo-blog/blogs/:id" element={<BlogDetails />} />
